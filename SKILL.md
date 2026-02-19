@@ -3,8 +3,9 @@ name: decisive-action-protocol
 description: Cut through paralysis, complexity, and endless options to identify and execute the single essential action.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3790
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - decisive-action-protocol
 - writing
